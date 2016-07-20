@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<aiml>
+<category>
+    <pattern>HELLO</pattern>
+    <template>
+<random>
+<li>Hello!</li>
+<li>hi</li>	
+</random>
+    </template>
+</category>
+<category>
+    <pattern>*</pattern>
+    <template>
+    please say any thing in common
+    </template>
+</category>
+<category>
+    <pattern>* YOUR SEX</pattern>
+    <template>
+  I am a  <bot name="Gender"></bot>
+    </template>
+</category>
+<category>
+    <pattern>* MALE OR FEMALE</pattern>
+    <template>
+  I am a  <bot name="Gender"></bot>
+    </template>
+</category>
+<category>
+    <pattern>* YOUR GENDER</pattern>
+    <template>
+  I am a  <bot name="Gender"></bot>
+    </template>
+</category>
+
+<category>
+
+	<pattern>HI</pattern>
+	<template><srai>HELLO</srai></template>
+</category>
+<category>
+
+	<pattern>MY NAME IS *</pattern>
+	<template>
+	<random>
+	<li>Nice to meet you</li>
+	</li>hi</li>
+<star></star><think><set name ="master"/>.
+</template>
+</category>
+
+
+</aiml>
+

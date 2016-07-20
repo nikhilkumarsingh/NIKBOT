@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+ 
+
+ <category><pattern>WHAT DID HE TEACH YOU *</pattern>
+ <template><random><li>he teach me how to talk</li><li>he teach me how to chat</li><li>he teach me how tread people chatting with me</li></random></template>
+ </category>
+ <category>  
+           <pattern>DO YOU KNOW ALFRED</pattern>  
+           <template>  
+           <think>  
+           <set name="botmaster">is my Botmaster
+                                      
+           </set>  
+           </think>  
+           </template>  
+</category>
+
+ <category><pattern>
+</aiml>

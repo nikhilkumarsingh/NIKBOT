@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+ 
+<aiml version="1.0.1" xmlns="http://alicebot.org/2001/AIML-1.0.1"
+      xmlns:html="http://www.w3.org/1999/xhtml"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://alicebot.org/2001/AIML-1.0.1 http://aitools.org/aiml/schema/AIML.xsd">
+ 
+<category>
+        <pattern>PLAY A SONG</pattern>
+	<template>starting the music now</template>
+</category>
+<category>
+        <pattern>PLAY * MUSIC</pattern>
+	<template>starting the music now</template>
+</category>
+<category>
+        <pattern>* START THE MUSIC</pattern>
+	<template>starting the music now</template>
+</category>
+
+<category>
+        <pattern>START * MUSIC</pattern>
+	<template>starting the music now</template>
+</category>
+
+<category>
+        <pattern>PLAY THE MUSIC</pattern>
+	<template>starting the music now</template>
+</category>
+<category>
+        <pattern>* PLAY THE MUSIC</pattern>
+	<template>starting the music now</template>
+</category>
+
+<category>
+        <pattern>* START THE MUSIC</pattern>
+	<template>starting the music now</template>
+</category>
+<category>
+        <pattern>* THE MUSIC AGAIN</pattern>
+	<template>starting the music now</template>
+</category>
+
+
+<category>
+        <pattern>START FIREFOX</pattern>
+        <template>starting up firefox</template>
+</category>
+<category>
+        <pattern>* FIREFOX</pattern>
+        <template>starting up firefox</template>
+</category>
+
+
+<category>
+        <pattern>SHOW ME A PICTURE</pattern>
+        <template>ok i will show it in a second</template>
+</category>
+
+
+<category>
+        <pattern>GO TO TO INTERNET</pattern>
+        <template>starting up the firefox</template>
+</category>
+
+<category>
+        <pattern>SHOW ME SOME THING</pattern>
+        <template>ok i show a piture</template>
+</category>
+
+<category>
+        <pattern>* GOOGLE</pattern>
+        <template>starting google</template>
+</category>
+<category>
+        <pattern>* TO GOOGLE</pattern>
+        <template>starting google</template>
+</category>
+<category>
+        <pattern>* STOP THE MUSIC NOW</pattern>
+        <template>stoping the music</template>
+</category>
+<category>
+        <pattern> * STOP THE MUSIC</pattern>
+        <template>stoping the music</template>
+</category>
+<category>
+        <pattern>STOP THE MUSIC</pattern>
+        <template>stoping the music</template>
+</category>
+
+
+<category>
+        <pattern>PLAY NEXT *</pattern>
+        <template>playing the next song</template>
+</category>
+<category>
+        <pattern>NEXT</pattern>
+        <template>playing the next song</template>
+</category>
+
+<category>
+        <pattern>NEXT *</pattern>
+        <template>playing the next song</template>
+</category>
+
+<category>
+        <pattern>NEXT SONG</pattern>
+        <template>playing the next song</template>
+</category>
+<category>
+        <pattern>NEXT MUSIC</pattern>
+        <template>playing the next song</template>
+</category>
+
+<category>
+        <pattern>PLAY PREAVIOUS *</pattern>
+        <template>preavious song</template>
+</category>
+<category>
+  <pattern>PLAY ME A *</pattern>
+	<template>starting the music now</template>
+</category>
+
+<category>
+  <pattern>* MUSIC</pattern>
+	<template>starting the music now</template>
+</category>
+
+<category>
+        <pattern>OK STOP THE MUSIC NOW</pattern>
+        <template>stoping the music</template>
+</category>
+<category>
+  <pattern>*.. STOP THE MUSIC NOW</pattern>
+        <template>stoping the music</template>
+</category>
+
+
+
+</aiml>
