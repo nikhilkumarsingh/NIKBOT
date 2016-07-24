@@ -118,7 +118,7 @@ bot.setBotPredicate("feelings"," I always put others before myself")
 
 
 
-telebot = telepot.Bot('243852415:AAErss5iMH7VI_NXd-Sqz59eLIRV3wKlT2c')
+telebot = telepot.Bot('XXXXXXXXXXXX')
 telebot.message_loop(handle)
 while 1:
  time.sleep(10)
