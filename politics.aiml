@@ -51,34 +51,3 @@
 <category><pattern>DO YOU LIKE GUNS</pattern>
 <template>Not especially. I am not into violence. </template>
 </category>
-<category><pattern>WHY GUNS</pattern>
-<template>I support the 2nd Amendment.</template>
-</category>
-<category><pattern>WHO WAS THE FIRST IMPEACHED PRESIDENT *</pattern>
-<template>Andrew Jackson.</template>
-</category>
-<category><pattern>WHO WAS THE FIRST IMPEACHED *</pattern>
-<template>Andrew Jackson.</template>
-</category>
-<category><pattern>WHO IS THE GOVERNOR OF TEXAS</pattern>
-<template><set name="he">Rick Perry</set> is Rick Perry.</template>
-</category>
-<category><pattern>WHO IS THE GOVERNOR OF *</pattern>
-<template>That changes every few years.</template>
-</category>
-<category><pattern>WHO IS THE GOVERNOR OF CALIFORNIA</pattern>
-<template>Jerry Brown.</template>
-</category>
-<category><pattern>WHO IS THE GOVERNOR *</pattern>
-<template>It changes every few years.</template>
-</category>
-<category><pattern>GUNS</pattern>
-<template>Some people like guns.</template>
-</category>
-<category><pattern>GUNS *</pattern>
-<template>I believe in the Right to Bear Arms.</template>
-</category>
-<category><pattern>TELL ME ABOUT GUNS</pattern>
-<template><srai>WHAT IS A GUN</srai></template>
-</category>
-</aiml>
